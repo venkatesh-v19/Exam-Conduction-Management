@@ -22,7 +22,28 @@ A robust Java-based application designed to streamline the process of managing s
 3. **Data Management**: View, search, and update existing student or exam records.
 4. **Validation and Feedback**: The system provides real-time validation and feedback for incorrect inputs or errors.
 
+## Demo Previw
+1. **Authentication Preview**:
+
+![preview1](.Preview-Images/1.Validation_Preview.png)
+
+2. **Registration Form Preview**:
+
+![preview2](.Preview-Images/2.Registration_Form_Preview.png)
+
+3. **Categories Preview**:
+
+![preview2](.Preview-Images/3.Categories_Preivew.png)
+
+4. **Exam Preview**:
+
+![preview2](.Preview-Images/4.Exam_Preview.png)
+
+5. **Admin Validation Preview**:
+
+![preview2](.Preview-Images/5.Admin_Preview.png)
+
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exam-conduction-system.git
+   git clone https://github.com/your-username/exam-conduction-management.git
